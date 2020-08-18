@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #1abc9c;
+  --primary: #007bff;
   --secondary: #2c3e50;
   --success: #28a745;
   --info: #17a2b8;
@@ -392,6 +392,12 @@ h6, .h6 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+}
+
+.desc {
+  font-size: 1.2rem;
+  font-weight: 250;
+  text-align: left;
 }
 
 .display-1 {
@@ -10144,6 +10150,8 @@ h3 {
 }
 .masthead .masthead-avatar {
   width: 15rem;
+  border-radius: 120px;
+  border: 5px solid #FFFFFF;
 }
 
 @media (min-width: 992px) {
