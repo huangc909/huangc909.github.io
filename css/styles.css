@@ -455,9 +455,14 @@ mark,
 
 .list-inline-item {
   display: inline-block;
+  font-size: 5rem;
 }
 .list-inline-item:not(:last-child) {
   margin-right: 0.5rem;
+}
+
+.add-skills {
+  font-size: 1.25rem;
 }
 
 .initialism {
@@ -10166,6 +10171,10 @@ h3 {
   .masthead .masthead-subheading {
     font-size: 1.5rem;
   }
+}
+.subheading {
+  font-weight: 500;
+  font-size: 1.5rem;
 }
 .portfolio .portfolio-item {
   cursor: pointer;
