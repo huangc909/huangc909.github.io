@@ -2965,6 +2965,10 @@ input[type=button].btn-block {
   width: 100%;
 }
 
+.btn-link {
+  color: #fff;
+}
+
 .fade {
   transition: opacity 0.15s linear;
 }
