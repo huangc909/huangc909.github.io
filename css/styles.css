@@ -462,7 +462,11 @@ mark,
 }
 
 .add-skills {
-  font-size: 1.25rem;
+  font-size: 1.15rem;
+}
+
+.skills {
+  text-align: center;
 }
 
 .initialism {
