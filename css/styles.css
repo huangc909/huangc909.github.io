@@ -395,7 +395,7 @@ h6, .h6 {
 }
 
 .desc {
-  font-size: 1.15rem;
+  font-size: 1.18rem;
   font-weight: 250;
   text-align: left;
 }
@@ -6119,7 +6119,7 @@ a.close.disabled {
 
 .bg-primary {
   /* background-color: #007bff !important; */
-  background-image: url(https://i.imgur.com/WVKJmbX.jpg);
+  background-image: url(https://i.imgur.com/aJbni06.jpg);
   background-size: cover;
 
 }
