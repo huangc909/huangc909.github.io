@@ -10300,3 +10300,11 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+.hobby-link {
+  color: #fff;
+}
+
+.hobby-link:hover {
+  color: #007bff;
+}
