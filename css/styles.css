@@ -160,13 +160,12 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #fff;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #117964;
-  text-decoration: underline;
+  color: #1A252F;
 }
 
 a:not([href]) {
@@ -10299,12 +10298,4 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #1a252f;
-}
-
-.hobby-link {
-  color: #fff;
-}
-
-.hobby-link:hover {
-  color: #007bff;
 }
