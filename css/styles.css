@@ -582,7 +582,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    max-width: 1140px;
+    max-width: 1280px;
   }
 }
 
@@ -616,7 +616,8 @@ pre code {
 }
 .row {
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
+  justify-content: center;
   margin-right: -1.5rem;
   margin-left: -1.5rem;
 }
@@ -10199,6 +10200,12 @@ h3 {
   font-weight: 500;
   font-size: 1.75rem;
 }
+
+.sz {
+  height: 174.64px;
+  border: .5px solid #CCCCCC;
+}
+
 .portfolio .portfolio-item {
   cursor: pointer;
   position: relative;
