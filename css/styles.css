@@ -449,8 +449,12 @@ mark,
 }
 
 .list-inline {
-  padding-left: 0;
-  list-style: none;
+  /* padding-left: 0;
+  list-style: none; */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .list-inline-item {
